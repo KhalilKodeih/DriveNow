@@ -1,0 +1,24 @@
+.home {
+  padding: 24px;
+}
+
+.home__hero {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 18px;
+  align-items: center;
+  padding: 18px;
+  border: 1px solid #e7e7e7;
+  border-radius: 16px;
+  background: white;
+}
+
+.home__hero-image {
+  height: 220px;
+  border-radius: 16px;
+  background: #f3f4f6;
+}
+
+.home__section {
+  margin-top: 22px;
+}
