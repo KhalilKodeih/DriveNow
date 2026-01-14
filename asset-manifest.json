@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DriveNow/static/css/main.067b3e36.css",
+    "main.js": "/DriveNow/static/js/main.4ebc20ee.js",
+    "index.html": "/DriveNow/index.html",
+    "main.067b3e36.css.map": "/DriveNow/static/css/main.067b3e36.css.map",
+    "main.4ebc20ee.js.map": "/DriveNow/static/js/main.4ebc20ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067b3e36.css",
+    "static/js/main.4ebc20ee.js"
+  ]
+}
